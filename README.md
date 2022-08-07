@@ -1,5 +1,6 @@
 # TestTask
 
+![ezgif-2-3c036df787](https://user-images.githubusercontent.com/49336146/183301790-a8377b17-7621-4ace-bdf0-fbdb0ed175d0.gif)
 
 Friends Api
 
